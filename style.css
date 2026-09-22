@@ -102,3 +102,4 @@ footer {
   color: #64748b;
   font-size: 0.85rem;
 }
+body { display: none !important; }
